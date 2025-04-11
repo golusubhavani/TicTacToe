@@ -23,7 +23,19 @@ A modern and interactive **Tic Tac Toe** web application built using **React**. 
   - Responsive and user-friendly layout.
 
 ---
+## Login Page
 ![alt text](image.png)
+
+## Signup Page
 ![alt text](image-1.png)
+
+## Game Page
 ![alt text](image-2.png)
+
+## Rules Page
 ![alt text](image-3.png)
+
+##Project Working
+
+
+
