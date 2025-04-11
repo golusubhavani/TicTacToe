@@ -23,6 +23,17 @@ A modern and interactive **Tic Tac Toe** web application built using **React**. 
   - Responsive and user-friendly layout.
 
 ---
+
+---
+
+## 📽️ Demo
+
+🎬 [Click here to view the demo video](https://github.com/golusubhavani/TicTacToe/blob/main/WhatsApp%20Video%202025-04-11%20at%2018.07.04_d28cdf05.mp4)
+
+---
+
+## 📸 Screenshots
+
 ## Login Page
 ![alt text](image.png)
 
@@ -35,7 +46,32 @@ A modern and interactive **Tic Tac Toe** web application built using **React**. 
 ## Rules Page
 ![alt text](image-3.png)
 
-##Project Working
+
+## 🚀 How to Run
+
+1. Clone the repository  
+   `git clone https://github.com/golusubhavani/TicTacToe.git`
+
+2. Navigate into the project folder  
+   `cd TicTacToe`
+
+3. Install dependencies  
+   `npm install`
+
+4. Start the development server  
+   `npm start`
+
+5. Open your browser and visit  
+   [http://localhost:3000](http://localhost:3000)
+
+   ## 👩‍💻 Author
+
+**Bhavani Golusu**  
+📧 [bhavanigolusu03@gmail.com](mailto:bhavanigolusu03@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/golusu-bhavani-/)  
+🔗 [GitHub](https://github.com/golusubhavani)
+
+
 
 
 
