@@ -1,0 +1,91 @@
+html{
+    padding:1cm;
+    background-color: black;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    font-style:italic;
+    color: aliceblue;
+  }
+.highlight{
+    color:red;
+  }
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.form-input{
+    width: 300px;
+    padding: 10px;
+    border:aliceblue ;
+  }
+  .but{
+    padding:12px;
+    width: 320px;
+    background-color: rgb(81, 123, 202);
+    border:none;
+    border-radius: 9px; 
+    color: aliceblue;
+  }
+  h5{
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+  }
+  a{
+    text-decoration: none;
+    color: rgb(81, 123, 202);
+  }
+  p{
+    color: aliceblue;
+    line-height: 0.8;
+    margin: 0;
+  
+  }
+  .head{
+    display: flex;
+    justify-content: center;
+  }
+  .base{
+    display: flex;
+    justify-content: center;
+  }
+  .rules{
+    display: flex;
+    justify-content: center;
+    line-height: 2;
+    color: black;
+    background-color:aliceblue;
+    padding: 40px;
+    margin-top: 0;
+  }
+  h2{
+    display: flex;
+    justify-content: center;
+    font-style:italic;
+    color:red;
+    background-color: antiquewhite;
+    padding: 30px;
+    margin-bottom: 0;
+  }
+  h4{
+    color:aliceblue;
+    display: flex;
+    justify-content: center;
+  }
+  .status{
+    color: rgb(212, 72, 72);
+  }
+  a{
+    display: flex;
+    justify-content: center;
+  }
+  h3{
+    display: flex;
+    justify-content:end ;
+  }
+  

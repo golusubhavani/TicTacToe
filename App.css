@@ -1,0 +1,41 @@
+#root{
+  padding: 80px;
+ 
+}
+.board-row{
+  display: flex;
+  flex-direction: center;
+}
+.square{
+  padding: 10px;
+  width:60px;
+  height:60px;
+  border:1px solid #000;
+  font-size:larger;
+  font-weight: 900;
+  background-color: azure;
+}
+h1{
+  display: flex;
+  justify-content: center;
+  font-style:italic;
+  color:aliceblue;
+}
+.highlight{
+  color:red;
+}
+
+.status{
+  font-size: large;
+  font-weight: 700;
+  padding-bottom: 20px;
+  display: flex;
+  justify-content: center;
+}
+.game-box{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
